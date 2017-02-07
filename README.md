@@ -135,7 +135,7 @@ If you are still confused read other peoples test! Go and check out the tests fr
 
 #### In Aid of Writing Tough Code
 
-When a problem is tough, and you don't know where to start, using TDD will help you get on the road to Codedem. By working out what your inputs are (and testing them) and what your ouputs are (and test them) the middle will just fill its self in! And if all else fails you can get one of your [fellow programmers](http://wearelighthouse.com/team/christy/) to write the tests and you just make them pass, one way or another you'll get there!
+When a problem is tough, and you don't know where to start, using TDD will help you get on the road to Codedem. By working out what your inputs are (and testing them) and what your ouputs are (and testing them) the middle will just fill itself in! And if all else fails you can get one of your [fellow programmers](http://wearelighthouse.com/team/christy/) to write the tests and you just make them pass, one way or another you'll get there!
 
 #### A Big Caveat
 
