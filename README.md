@@ -33,7 +33,7 @@ Adding the following line to your [`.bash_profile`](http://apple.stackexchange.c
 
 ### A note on `composer update`
 
-`composer update` is a dangerous command and shouldn't be used unless you know what you are doing. If used wrongly you can accidently fetch version of your projects dependencies that don't work with your code base.
+`composer update` is a dangerous command and shouldn't be used unless you know what you are doing. If used wrongly you can accidentally fetch versions of your projects dependencies that don't work with your code base.
 
 The best thing to do is read their [getting started](https://getcomposer.org/doc/01-basic-usage.md) guide and learn everything you need to about composer!
 
@@ -51,7 +51,7 @@ A key thing to take into account with this style guide is the difference between
 
 > Code MUST use 4 spaces for indenting, not tabs.
 
-There is no budging on this, we **must** all use 4 spaces for intenting!
+There is no budging on this, we **must** all use 4 spaces for indenting!
 
 Whereas:
 
@@ -114,7 +114,7 @@ If any of the above is true you should write a test, but we know its tougher tha
 
 ### Test Driven Development (TDD)
 
-TDD initailly is hard, takes ages and you feel like it would be quicker to just write the code then maybe write a test afterwards when its working. This is kind of true but also quite a shallow approach to solving a problem, you've dived in head first potentially not thought about all the cases and then maybe coded up a solution that doesn't fully work. This is probably more of a waste of time and when you add up all the extra time patching old code you'll probably land somewhere near the same amount of time spent if you had written it with TDD.
+TDD is hard initially, takes ages and you feel like it would be quicker to just write the code then maybe write a test afterwards when its working. This is kind of true but also quite a shallow approach to solving a problem, you've dived in head first potentially not thought about all the cases and then maybe coded up a solution that doesn't fully work. This is probably more of a waste of time and when you add up all the extra time patching old code you'll probably land somewhere near the same amount of time spent if you had written it with TDD.
 
 #### TDD Lifecycle
 
