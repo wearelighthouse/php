@@ -99,7 +99,7 @@ Follow these [instructions](https://packagecontrol.io/packages/SublimeLinter-php
 
 ## 4. Testing
 
-This section should really just be called [`phpunit`](https://phpunit.de/), we use `phpunit` to run all our PHP tests and why would you use [anything](https://www.google.co.uk/webhp?sourceid=chrome-instant&rlz=1C5CHFA_enGB726GB726&ion=1&espv=2&ie=UTF-8#q=alternatives+to+phpunit) else!
+This section should really just be called [`phpunit`](https://phpunit.de/), we use `phpunit` to run all our PHP tests and why would you use [anything else](https://www.google.co.uk/webhp?sourceid=chrome-instant&rlz=1C5CHFA_enGB726GB726&ion=1&espv=2&ie=UTF-8#q=alternatives+to+phpunit)!
 
 ### Testing Strategy
 
@@ -132,6 +132,10 @@ The hardest thing is probably coming up with the *things* you want to test, here
 * Are there any exceptions?
 
 If you are still confused read other peoples test! Go and check out the tests from your [favourite framework](https://github.com/cakephp/cakephp/tree/master/tests/TestCase) and compare them to the functions they are testing, the pennies will start to drop.
+
+#### In Aid of Writing Tough Code
+
+When a problem is tough and you don't know where to start using TDD will help you get on the road to Codedem. By working out what your inputs are (and testing them) and what your ouputs are (and test them) the middle will just fill its self in! And if all else fails you can get one of your [fellow programmers](http://wearelighthouse.com/team/christy/) to write the tests and you just make them pass, one way or another you'll get there!
 
 #### A Big Caveat
 
